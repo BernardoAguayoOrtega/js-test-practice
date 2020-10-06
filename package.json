@@ -4,7 +4,7 @@
 	"description": "js test examples",
 	"main": "index.js",
 	"scripts": {
-		"test": "node ./src/tests/4.js"
+		"test": "jest ./src/tests/tryJest.js"
 	},
 	"keywords": [
 		"test",

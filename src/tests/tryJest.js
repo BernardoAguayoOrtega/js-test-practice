@@ -2,7 +2,7 @@ import { sum, subtract } from '../math.js';
 
 test('sum adds numbers', () => {
 	const result = sum(3, 7);
-	const expected = 1;
+	const expected = 10;
 	expect(result).toBe(expected);
 });
 
