@@ -1,0 +1,19 @@
+{
+	"name": "js-tests-examples",
+	"version": "1.0.0",
+	"description": "js test examples",
+	"main": "index.js",
+	"scripts": {
+		"test": "node ./src/tests/ownLibrary.js"
+	},
+	"keywords": [
+		"test",
+		"js"
+	],
+	"author": "Bernardo Aguayo Ortega",
+	"license": "MIT",
+	"type": "module",
+	"dependencies": {
+		"assert": "^2.0.0"
+	}
+}
